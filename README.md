@@ -25,7 +25,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/streamify.git
+  https://github.com/SrikanthMidathapalli/Streamify.git
    cd streamify
    ```
 
