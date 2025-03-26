@@ -5,7 +5,7 @@
 A modern movie streaming web application built with **React.js** and **Bootstrap**, featuring a dynamic carousel and a responsive movie list.
 
 ## vist this link:
-https://vercel.com/srikanthmidathapallis-projects/streamify
+1.	https://streamify-git-main-srikanthmidathapallis-projects.vercel.app
 
 ##  Features
 -  Display a list of movies with posters, genres, and ratings
