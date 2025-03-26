@@ -1,0 +1,223 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Inception",
+        "genre": "Sci-Fi",
+        "rating": 5,
+        "language": "English",
+        "releaseDate": "2010-07-16",
+        "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt"],
+        "description": "A skilled thief is given a chance at redemption...",
+        "poster": "/images/Inception.jpeg"
+      },
+      {
+        "id": 2,
+        "title": "The Dark Knight",
+        "genre": "Action",
+        "rating": 5,
+        "language": "English",
+        "releaseDate": "2008-07-18",
+        "cast": ["Christian Bale", "Heath Ledger"],
+        "description": "Batman faces the Joker in Gotham...",
+        "poster": "/images/TheDarkKnight.jpeg"
+      },
+      {
+        "id": 3,
+        "title": "Interstellar",
+        "genre": "Sci-Fi",
+        "rating": 4,
+        "language": "English",
+        "releaseDate": "2014-11-07",
+        "cast": ["Matthew McConaughey", "Anne Hathaway"],
+        "description": "A team of explorers travel through a wormhole...",
+        "poster": "/images/Interstellar.jpeg"
+      },
+      {
+        "id": 4,
+        "title": "Avengers: Endgame",
+        "genre": "Action",
+        "rating": 4,
+        "language": "English",
+        "releaseDate": "2019-04-26",
+        "cast": ["Robert Downey Jr.", "Chris Evans"],
+        "description": "The Avengers assemble to reverse Thanos' actions...",
+        "poster": "/images/AvengersEndgame.jpeg"
+      },
+      {
+        "id": 5,
+        "title": "Parasite",
+        "genre": "Thriller",
+        "rating": 2,
+        "language": "Korean",
+        "releaseDate": "2019-05-30",
+        "cast": ["Song Kang-ho", "Lee Sun-kyun"],
+        "description": "A poor family schemes to infiltrate a wealthy household...",
+        "poster": "/images/parasite.jpeg"
+      },
+      {
+        "id": 6,
+        "title": "3 Idiots",
+        "genre": "Comedy",
+        "rating": 4,
+        "language": "Hindi",
+        "releaseDate": "2009-12-25",
+        "cast": ["Aamir Khan", "R. Madhavan"],
+        "description": "Three friends navigate college and life...",
+        "poster": "/images/Idiots.jpeg"
+      },
+      {
+        "id": 7,
+        "title": "Baahubali: The Beginning",
+        "genre": "Action",
+        "rating": 5,
+        "language": "Telugu",
+        "releaseDate": "2015-07-10",
+        "cast": ["Prabhas", "Rana Daggubati"],
+        "description": "A young man learns about his royal heritage...",
+        "poster": "/images/bahubali.jpeg"
+      },
+      {
+        "id": 8,
+        "title": "Vikram",
+        "genre": "Thriller",
+        "rating": 4,
+        "language": "Tamil",
+        "releaseDate": "2022-06-03",
+        "cast": ["Kamal Haasan", "Vijay Sethupathi"],
+        "description": "A former cop battles a drug syndicate...",
+        "poster": "/images/vikram.jpeg"
+      },
+      {
+        "id": 9,
+        "title": "Drishyam",
+        "genre": "Thriller",
+        "rating": 3,
+        "language": "Malayalam",
+        "releaseDate": "2013-12-19",
+        "cast": ["Mohanlal", "Meena"],
+        "description": "A man goes to extreme lengths to protect his family...",
+        "poster": "/images/Drishyam.jpeg"
+      },
+      {
+        "id": 10,
+        "title": "Spirited Away",
+        "genre": "Animation",
+        "rating": 1,
+        "language": "Japanese",
+        "releaseDate": "2001-07-20",
+        "cast": ["Rumi Hiiragi", "Miyu Irino"],
+        "description": "A young girl enters a magical world...",
+        "poster": "/images/SpiritedAway.jpeg"
+      },
+      {
+        "id": 11,
+        "title": "The Godfather",
+        "genre": "Crime",
+        "rating": 2,
+        "language": "English",
+        "releaseDate": "1972-03-24",
+        "cast": ["Marlon Brando", "Al Pacino"],
+        "description": "The aging patriarch of a mafia dynasty transfers control...",
+        "poster": "/images/TheGodfather.jpeg"
+      },
+      {
+        "id": 12,
+        "title": "Titanic",
+        "genre": "Romance",
+        "rating": 5,
+        "language": "English",
+        "releaseDate": "1997-12-19",
+        "cast": ["Leonardo DiCaprio", "Kate Winslet"],
+        "description": "A love story aboard the ill-fated Titanic...",
+        "poster": "/images/titanic.jpeg"
+      },
+      {
+        "id": 13,
+        "title": "Sholay",
+        "genre": "Action",
+        "rating": 4,
+        "language": "Hindi",
+        "releaseDate": "1975-08-15",
+        "cast": ["Amitabh Bachchan", "Dharmendra"],
+        "description": "Two criminals are hired to capture a ruthless bandit...",
+        "poster": "/images/Sholay.jpeg"
+      },
+      {
+        "id": 14,
+        "title": "RRR",
+        "genre": "Action",
+        "rating": 3,
+        "language": "Telugu",
+        "releaseDate": "2022-03-25",
+        "cast": ["NTR Jr.", "Ram Charan"],
+        "description": "A fictional tale of Indian revolutionaries...",
+        "poster": "/images/rrr.jpeg"
+      },
+      {
+        "id": 15,
+        "title": "Jai Bhim",
+        "genre": "Drama",
+        "rating": 5,
+        "language": "Tamil",
+        "releaseDate": "2021-11-02",
+        "cast": ["Suriya", "Lijomol Jose"],
+        "description": "A lawyer fights for the rights of tribal communities...",
+        "poster": "/images/jaibhim.jpeg"
+      },
+      {
+        "id": 16,
+        "title": "Dangal",
+        "genre": "Sports",
+        "rating": 5,
+        "language": "Hindi",
+        "releaseDate": "2016-12-23",
+        "cast": ["Aamir Khan", "Fatima Sana Shaikh"],
+        "description": "A wrestler trains his daughters for national glory...",
+        "poster": "/images/dangal.jpeg"
+      },
+      {
+        "id": 17,
+        "title": "Black Panther",
+        "genre": "Action",
+        "rating": 4,
+        "language": "English",
+        "releaseDate": "2018-02-16",
+        "cast": ["Chadwick Boseman", "Michael B. Jordan"],
+        "description": "T'Challa returns home to Wakanda...",
+        "poster": "/images/bp.jpeg"
+      },
+      {
+        "id": 18,
+        "title": "Athadu",
+        "genre": "Action",
+        "rating": 5,
+        "language": "Telugu",
+        "releaseDate": "2005-01-15",
+        "cast": ["Mahesh babu", "Trisha"],
+        "description": "A Story about Crime and love Story",
+        "poster": "/images/athadu.jpeg"
+      }
+    ],
+    "genres": [
+      { "id": 1, "name": "Action" },
+      { "id": 2, "name": "Drama" },
+      { "id": 3, "name": "Sci-Fi" },
+      { "id": 4, "name": "Comedy" },
+      { "id": 5, "name": "Thriller" }
+    ],
+    "ratings": [
+      { "id": 1, "value": 1 },
+      { "id": 2, "value": 2 },
+      { "id": 3, "value": 3 },
+      { "id": 4, "value": 4 },
+      { "id": 5, "value": 5 }
+    ],
+    "languages": [
+      { "id": 1, "name": "English" },
+      { "id": 2, "name": "Hindi" },
+      { "id": 3, "name": "Telugu" },
+      { "id": 4, "name": "Tamil" }
+    ]
+  }
+  
